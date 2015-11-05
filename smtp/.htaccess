@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^smtp\.sellyourtime\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.smtp\.sellyourtime\.in$
+RewriteRule ^/?$ "http\:\/\/sellyourtime\.in\/" [R=301,L]
+

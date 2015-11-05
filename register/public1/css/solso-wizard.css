@@ -1,0 +1,98 @@
+/*
+ *-----------------------------------------------------------------------------------
+ * === WEBSITE DESIGN ===
+ *-----------------------------------------------------------------------------------
+ * author Solutii Soft
+ */
+  
+/* === HTML ELEMENTS === */
+
+	* { 
+		outline: none !important; 
+		border-radius: 0 !important;
+	}
+
+	body {
+		font-family: 'Dosis', arial;
+		line-height: 1;
+		padding-bottom: 20px;
+		text-rendering: optimizelegibility;
+	}
+	
+	a:link, 
+	a:hover, 
+	a:active {
+		text-decoration: none;
+	}
+	
+	h1,
+	h2, 
+	h3 {
+		font-family: 'Dosis', arial;
+	}
+	h1 {
+		font-size: 45px;
+		text-shadow: 1px 1px 1px #BB1757;
+	}
+	h1 small {
+        color: #000;
+        display: block;
+        margin-top: 10px;
+    }
+    
+	ul {
+		list-style: none;
+	}
+    
+	li, 
+    p, 
+    label {
+		font-size: 16px;
+		font-weight: 400;
+        line-height: 1.7;
+	}	
+	
+/* === END HTML ELEMENTS === */	
+
+
+/* === solsoWizard CSS === */
+
+    /* pager */
+    .pager {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .pager li > a, 
+    .pager li > span {
+        padding: 10px 20px;
+    }
+    .required {
+        border-left: 2px solid #DC002E;
+    }
+
+    /* validation */
+    .parsley-success {
+        border: 1px solid green;
+    }
+    .parsley-error-list {
+        padding: 0;
+    }
+    li.required,
+    li.custom-error-message, 
+    .parsley-error-list li {
+        background: #DC002E;
+        border: 1px solid #DC002E;
+        box-shadow: 0 0 0 1px #FFFFFF inset;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.42857;
+        margin-top: 10px;	
+        padding: 5px 10px;
+    }
+/* === END solsoWizard CSS === */
+
+
+
+
+

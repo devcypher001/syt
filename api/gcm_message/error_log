@@ -1,0 +1,86 @@
+[18-Jul-2015 04:39:36 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 04:40:21 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:10:52 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:11:09 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:11:37 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:48:47 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[18-Jul-2015 05:49:35 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[18-Jul-2015 05:49:57 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(): Failed opening '../connect' for inclusion (include_path='.:/opt/php55/lib/php') in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(../../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(../../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(): Failed opening '../../connect' for inclusion (include_path='.:/opt/php55/lib/php') in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 07:08:26 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:26 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:09:16 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:09:16 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:10:06 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:10:06 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[23-Jul-2015 02:54:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 11
+[23-Jul-2015 04:06:30 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 7
+[23-Jul-2015 04:06:47 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 7
+[23-Jul-2015 04:08:09 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_allseller.php on line 8
+[23-Jul-2015 04:08:18 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_allseller.php on line 8
+[23-Jul-2015 04:08:50 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_allcategory_seller.php on line 7
+[24-Jul-2015 01:48:46 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 28
+[24-Jul-2015 01:48:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sellyour'@'localhost' (using password: NO) in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 28
+[24-Jul-2015 01:48:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 28
+[24-Jul-2015 01:48:46 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 29
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/sellyour/public_html/connect.php on line 3
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_select_db(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/sellyour/public_html/connect.php on line 4
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/sellyour/public_html/connect.php on line 4
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_query(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 29
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 29
+[06-Aug-2015 04:07:53 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/chat_history.php on line 30
+[07-Aug-2015 07:49:43 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:46 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:47 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:47 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:47 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:50 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:50 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:50 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:50 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:49:53 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:49:53 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:50:25 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:50:25 America/Chicago] PHP Notice:  Array to string conversion in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 18
+[07-Aug-2015 07:50:47 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:50:48 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:50:48 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:50:48 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 07:50:53 America/Chicago] PHP Warning:  Unterminated comment starting line 20 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 20
+[07-Aug-2015 10:34:18 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 16
+[07-Aug-2015 10:35:03 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 16
+[07-Aug-2015 10:35:07 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 16
+[07-Aug-2015 10:35:45 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 16
+[07-Aug-2015 12:11:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 21
+[08-Aug-2015 23:32:34 America/Chicago] PHP Notice:  Undefined index: message in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 5
+[08-Aug-2015 23:32:34 America/Chicago] PHP Notice:  Undefined index: d in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 6
+[08-Aug-2015 23:32:34 America/Chicago] PHP Notice:  Undefined index: d1 in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 7
+[08-Aug-2015 23:32:34 America/Chicago] PHP Notice:  Undefined index: http_link in /home/sellyour/public_html/api/gcm_message/be_allbuyer.php on line 8
+[09-Oct-2015 07:41:16 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 15
+[09-Oct-2015 07:42:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 15
+[13-Oct-2015 09:33:05 Etc/GMT] PHP Notice:  Undefined variable: selected_user in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 50
+[13-Oct-2015 09:35:37 Etc/GMT] PHP Notice:  Undefined variable: selected_user in /home/sellyour/public_html/api/gcm_message/be_gender.php on line 50
+[20-Oct-2015 10:33:32 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:32 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:33 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:33 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:34 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:35 Etc/GMT] PHP Notice:  Undefined variable: d in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24
+[20-Oct-2015 10:33:35 Etc/GMT] PHP Notice:  Undefined variable: d1 in /home/sellyour/public_html/api/gcm_message/be_admin_message.php on line 24

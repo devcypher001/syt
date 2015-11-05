@@ -1,0 +1,303 @@
+[09-Feb-2015 11:52:56] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: SSL: connection timeout in /home/sellyour/public_html/facebook/index.php on line 26
+[09-Feb-2015 11:52:56] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Failed to enable crypto in /home/sellyour/public_html/facebook/index.php on line 26
+[09-Feb-2015 11:52:56] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDEGzBtmUFxd6nHY4cIljhe41PlPAsY9u0QrFiQNgb5aHfKCJtbIP6O9g01JjmWOEVyTPYSVPOUSelIPH7Eih6g1Y4W3wvs2B57ygX7b4tdumxfNsI868a2SEiZsOLxLyIR1ahS2zSKq2M5bgDJnVwo9Chm1r_4G6QiKGnyWzLCpwjg1bK-LbxDim7mZly7UImo7o8zwNIFEOOOwIbXD-RKz4K-WqtOkq6xvDuiZuIZdudxMGEiilWRds7RcdrM03DiRdbXAJWNjJkyzTWlyXVvaynH0S39C7blR0iN64ORoUx7qLYxv_bcnk_ZhBb7ORnnXyoOZReYbkLfGAdK_D7M) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: operation failed in /home/sellyour/public_html/facebook/index.php on line 26
+[09-Feb-2015 11:52:58] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[09-Feb-2015 11:54:09] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQAqfwRZB3Rrbd3ZK2cfVZ1QCWGnrhhlEIMXFtGKSxXN1Rn_8uednkd4qo9P3rrcoM337hyV0lW2SVQUXmms9UP0ASzk_dt43WRXqq6XBnleFvIp26OlGBbMwgX_LSwFMKHaAny8iHDbOzOyEc1UqyxGpS06GhTOI77rKVgQA3p7DxJLCNCgnJljYrxQAb4jNAWo1CclS0WRim8X2r7vDdZgyIS77CsbPhbeglFFz1uyaQ71Fqj3QNRTvLUfptvlO91UzJJj5LV-Wg_UYH_4ghmRxYL2lWB4vmlrE-I97JBlEJZiK3s3FX5mVjJKjldymgKbQGEcU7z6VIFec8BcThA_) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[09-Feb-2015 11:54:11] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[10-Feb-2015 11:53:00] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQCvxUzZrswGdZGqjiSdBv3YkJXZ6_1Yxs6USTQQeLau2TeFixsS0_YFBapSaP9kwKN-lfrvXKB3xfjZS-ue-iTI6sY9jYognm9k0097k7Q2zx2pEw5WQaC7KRUCVaosxxyrJ9bjd2PdEYBhh4BT1Dazf72wrQlrVduZyhz3cCgg3gO8K7Sf0luyJkFV-IVfFAZDTJ8W3bVEUWxNN8q-7HfopHDCh9o7gsE9qQZM3FnwsrNyL6mcm34uVZqOWRT6e14ayjOupcuX--b-4fmfkOAdNCs7ZLUa8SwEbqwzfbtM_fXUEl031sdJplmu2qo_WROUWGTQ44IYoYk43pRRlYxw) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[10-Feb-2015 11:53:01] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[10-Feb-2015 14:26:27] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDq-629A4WSLLN2sch4v27JVR3TCP9YlJG1GuzJoc5ppV3ZCE6p_4LbSNe3T3584aCOKQ0_Y7IeiaVUE1mNtmmBMS5FhrC4_CpbvZrB2mzy_m-_kMsagWUQjaYVNkVBtt6mOLkEk7a_26XIRQlDgz1pYb17Lm5TpF3p6KWiMo4JE9grL9sdQjrlPSnUag3SJOi1xrC6U81dpOD9Z5kuGzR5GdY8QlEVGHhNvgxYL3KsglDM4d2wN2YIAQtGsraqJUUeXiXja8G4mooLmLjL6gcjF1n3Iwc1ITqvZ61HIv5glMT1tjrGCcMGFMItf44xg8Z4HXUkAcLhSC9FQcK0vxUp) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[10-Feb-2015 14:26:28] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[10-Feb-2015 14:34:01] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQA9377XtFGRd9ODWfBAVs5nhbf5p3d_sK9N4NIFPSPLg_GmXWyRFM3xoUDyKx6ETVy9Y8_4wL7TXa-4HPGh5xIGpqoNv3eocf1UYOZk-gexd2__jhs8Bj49yQ-lgl8Rw8wUFwmLN4bE8sRe_YJ4DXfuU5kZ3yE8NyCY9fTh3-jqxFn3MB0GcplggkR13p3LbkVGCgpw4F2X87h5_IAaquPskirAiPTXaupBJ4FHX7vJWTgplKkKXYZ1mfTk69D0ZSHU0qE4VRNZGKd25mmaLWY9c42_gz4U8Kq2lONOzTXc5RbnePCrBVIOoX8acY7beRVnC5eQQRD78xcRIsnCq_BV) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[10-Feb-2015 14:34:03] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[10-Feb-2015 14:34:24] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDKq4_-8h8ctulIe191Dqna-9pfWDUggLJwIRKYOLtjyhdP27tncmZsnGpPa__tn6Fp2-90GzZaIPWQrt5ODZAzzv2MnxEntvEbtybPOw4isBqTmLZygm7vN5AOFiWXX4LBCuuvoCbZjtBVGAF9Jh6dqZz0NYerDKya5676CZxZR2dh053GfrPhL3jDiKPlnxxeApaIiCH0XFRleJtyBL_oIP5KldSQ7G9tttbJUFHunZm09HgK_WILWcrrMoATuaaaBiNFo-2azMRMQhKAueOL1VudaVtm9MuT9Vo1Z60Fd9mRfsYN0mNAFnu5H9VLDzKP9VqV-VoZHR7e3gIoukQ1) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[10-Feb-2015 14:34:27] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[10-Feb-2015 14:57:18] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQCKlT8o3o_9sZqNqU4g2BvwZiyzodh1g57f5LGdIBI-BrEnD-kspyEzDv5uEkE0HURbYHmKcjQiRSb1Av_317MGy9vl2fsOUR3PQ7PNF00tCLdP3WVAqzo0h6OJFaepO15JL3GrGcglPt0koMnVGokodtx7UeBEpYO-frqUYMWg5H4fs1CpT6A4jYMjr-B2ax5nQ4UHTipCN19jK0ItewYoYWX0fL5ZxvlMnSRBIpVhYF9mwUuOjrdgWSqI1w6dhGZfROdo3HKh0VLmR4HVf6nfjoCBFU6rCUhHDte4dQlu_bBQ6kA-_B48ghLNFk-qRRQCkPVWzr55an9JCPLCIjw4) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[10-Feb-2015 14:57:20] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[14-Feb-2015 20:24:36] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQAMbeHXC-N3pD_YnqT98P86k1ueNzlUbkJi3WPwbf_iKI7Gyc91yE5AOw8vji5WOlYqVizsEY2PCZfPK59apJoYvKOcl-LKZ54CdPvzBy93l7pIwGCcqwbF9jh3O-HDJsVp-g80BxyRg6l_oeZQXpMAdBemCCXdOUKNjLN5lbRuKcocm6_mGFNBwZkMLrJvR89utHTtfhBqyDDh5rvh_fpeiFHyx7VUjbDt30_VIdy4GY7BmKHM6jhzB8Rvie71WqNDJmlyqCZeCrK5E9wmULzMChnCg5qgEREu9s0zLJDkVGW3PFv_5IDICEAhrC-LT5AeuT8gIsUtjIBH8SawK6Cr) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[14-Feb-2015 20:24:37] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 33
+[15-Feb-2015 01:26:53] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDxryHcGuNvmR2IXnEPo1Pb8UvVpF_aPzZqFchWvqwY1CMkUfUESJxCtfVnjC3ch-Nru7HEesFrRxYASbkWWaSMZJq8fiOidtgtLUC_e3MRTh8_hIAJS3CT7c4SK_yG9WSclq7zsvrW7fmYIPaaS_jB5SMkzASMV6DkIPOxi8p7rLWx2dFdU9FSvHYvT--po1_veRO3tUrpqfA6MS7hSDaf2CDScyuxT8EP9tVQca6DtN4VHMk5MgiIx4_W5chktFj84mxg9Y60LzdBO7CBdXVoM935UiRR_DN28nAS8ePZG9CKRRfESzeaoYPW0nzOum0MBNpPT0XCk7HXNj41GTOU) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[15-Feb-2015 01:28:52] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDxryHcGuNvmR2IXnEPo1Pb8UvVpF_aPzZqFchWvqwY1CMkUfUESJxCtfVnjC3ch-Nru7HEesFrRxYASbkWWaSMZJq8fiOidtgtLUC_e3MRTh8_hIAJS3CT7c4SK_yG9WSclq7zsvrW7fmYIPaaS_jB5SMkzASMV6DkIPOxi8p7rLWx2dFdU9FSvHYvT--po1_veRO3tUrpqfA6MS7hSDaf2CDScyuxT8EP9tVQca6DtN4VHMk5MgiIx4_W5chktFj84mxg9Y60LzdBO7CBdXVoM935UiRR_DN28nAS8ePZG9CKRRfESzeaoYPW0nzOum0MBNpPT0XCk7HXNj41GTOU) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[15-Feb-2015 01:28:59] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=AQDxryHcGuNvmR2IXnEPo1Pb8UvVpF_aPzZqFchWvqwY1CMkUfUESJxCtfVnjC3ch-Nru7HEesFrRxYASbkWWaSMZJq8fiOidtgtLUC_e3MRTh8_hIAJS3CT7c4SK_yG9WSclq7zsvrW7fmYIPaaS_jB5SMkzASMV6DkIPOxi8p7rLWx2dFdU9FSvHYvT--po1_veRO3tUrpqfA6MS7hSDaf2CDScyuxT8EP9tVQca6DtN4VHMk5MgiIx4_W5chktFj84mxg9Y60LzdBO7CBdXVoM935UiRR_DN28nAS8ePZG9CKRRfESzeaoYPW0nzOum0MBNpPT0XCk7HXNj41GTOU) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/index.php on line 26
+[16-Feb-2015 16:44:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sellyour'@'localhost' (using password: NO) in /home/sellyour/public_html/facebook/check.php on line 7
+[16-Feb-2015 16:44:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sellyour/public_html/facebook/check.php on line 7
+[16-Feb-2015 16:44:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sellyour/public_html/facebook/check.php on line 9
+[16-Feb-2015 16:44:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/check.php:7) in /home/sellyour/public_html/facebook/check.php on line 15
+[16-Feb-2015 16:45:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sellyour'@'localhost' (using password: NO) in /home/sellyour/public_html/facebook/check.php on line 7
+[16-Feb-2015 16:45:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sellyour/public_html/facebook/check.php on line 7
+[16-Feb-2015 16:45:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/sellyour/public_html/facebook/check.php on line 9
+[16-Feb-2015 16:45:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/check.php:7) in /home/sellyour/public_html/facebook/check.php on line 15
+[16-Feb-2015 22:35:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/index.php:46) in /home/sellyour/public_html/facebook/index.php on line 448
+[16-Feb-2015 22:46:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/index.php:46) in /home/sellyour/public_html/facebook/index.php on line 450
+[16-Feb-2015 22:52:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/index.php:46) in /home/sellyour/public_html/facebook/index.php on line 450
+[23-Feb-2015 17:59:16] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/test1.php on line 192
+[23-Feb-2015 17:59:16] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to chat.facebook.com:5222 (Connection refused) in /home/sellyour/public_html/facebook/test1.php on line 27
+[23-Feb-2015 18:00:04] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/test1.php on line 192
+[23-Feb-2015 18:00:04] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to chat.facebook.com:5222 (Connection refused) in /home/sellyour/public_html/facebook/test1.php on line 27
+[23-Feb-2015 18:34:32] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=1535443476729064&amp;redirect_uri=http%3A%2F%2Fsellyourtime.in%2Ffacebook%3FfbTrue%3Dtrue&amp;client_secret=e9b86de4658d3995bea5aa82a2320692&amp;code=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/sellyour/public_html/facebook/test1.php on line 192
+[23-Feb-2015 18:34:32] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to chat.facebook.com:5222 (Connection refused) in /home/sellyour/public_html/facebook/test1.php on line 27
+[03-Jun-2015 16:28:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/sellyour/public_html/facebook/index.php on line 438
+[08-Jul-2015 10:37:00 America/Chicago] PHP Notice:  Undefined index: code in /home/sellyour/public_html/facebook/index.php on line 24
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[08-Jul-2015 10:37:01 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[01-Aug-2015 12:14:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[02-Aug-2015 03:10:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:07:55 America/Chicago] PHP Notice:  Undefined variable: fet_query in /home/sellyour/public_html/facebook/check.php on line 12
+[12-Sep-2015 10:07:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sellyour/public_html/facebook/check.php:12) in /home/sellyour/public_html/facebook/check.php on line 19
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:07:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:09:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:09:42 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:10 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 49
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 50
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 51
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 436
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 470
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 471
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 472
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 473
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 495
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 496
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 497
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Undefined variable: content in /home/sellyour/public_html/facebook/index.php on line 498
+[12-Sep-2015 10:10:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/sellyour/public_html/facebook/index.php on line 498

@@ -1,0 +1,93 @@
+<?php
+include 'connect.php';
+
+$category = @$_POST['category'];
+$experience = @$_POST['experience'];
+$keyword = @$_POST['keyword'];
+$location = @$_POST['location'];
+$location1 = substr($location,6);
+
+$query = mysql_query("SELECT * FROM  `syt_registration` 
+WHERE `category` REGEXP  '$keyword' or `category` REGEXP '$category' or `zip` REGEXP '$location1'");
+
+if(mysql_num_rows($query) == 0)
+{
+	echo "Currently,there are not matching profile.you can post your requirement.";
+}
+else
+{
+	while($rr = mysql_fetch_assoc($query))
+	{
+?>
+		<div class="col-sm-4 col-xs-6">
+			
+                      <div class="single-product">
+                        <figure>
+                          <img src="img/content/comment-image-1.jpg" alt="">
+
+                          <div class="rating">
+
+                            <ul class="list-inline">
+                              
+                            </ul>
+
+
+                          </div> <!-- end .rating -->
+
+                          <figcaption>
+                            <div class="bookmark">
+                              <a href="#"><i class="fa fa-bookmark-o"></i> Bookmark</a>
+                            </div>
+
+                            <div class="read-more">
+                              <a href="#"><i class="fa fa-angle-right"></i> Read More</a>
+                            </div>
+
+                          </figcaption>
+                        </figure>
+
+                        <h4><a href="profile.php?id=<?php echo $rr['id']; ?>"><?php echo $rr['firstname']." ".$rr['lastname']; ?></a></h4>
+
+                        <h5><a href="#"><?php echo $rr['subcategory']; ?></a>, <a href="#"><?php echo $rr['category']; ?></a></h5>
+
+                        <p>
+						<?php
+							echo "<span style='color:orange'>Experience</span> : ". $rr['experience']." Years";
+						?>&nbsp;&nbsp;&nbsp;&nbsp;
+						<?php
+							echo "<span style='color:orange'>Charge</span> : <i class='fa fa-inr'></i> ". $rr['charge'];
+						?>
+						</p>
+						
+						
+						<p>
+						<?php
+							echo "<span style='color:orange'>Around</span> : ". $rr['address']." ".$rr['zip'];
+						?>&nbsp;&nbsp;&nbsp;&nbsp;
+						<?php
+							echo "<span style='color:orange'>Availability</span> : ". $rr['service_day'];
+						?>
+						</p>
+						
+						
+						<p>
+						<?php
+							$expr = strlen($rr['experience_details']);
+							if($expr <= 146)
+							{
+								echo $rr['experience_details']." ...<a href='profile.php?id=".$rr['id']."'>Read more</a>";
+							}
+							else
+							{
+								echo substr($rr['experience_details'],0,130)."...<a href='profile.php?id=".$rr['id']."'>Read more</a>";
+							}
+						?>
+						</p>
+
+                        
+
+                      </div> <!-- end .single-product -->
+                    </div>
+<?php
+} }
+?>

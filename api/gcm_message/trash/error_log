@@ -1,0 +1,22 @@
+[18-Jul-2015 04:39:36 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 04:40:21 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:10:52 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:11:09 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:11:37 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home/sellyour/public_html/api/connect.php on line 36
+[18-Jul-2015 05:48:47 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[18-Jul-2015 05:49:35 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[18-Jul-2015 05:49:57 America/Chicago] PHP Notice:  Undefined variable: id in /home/sellyour/public_html/api/gcm_message/be_seller_id.php on line 17
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:57:53 America/Chicago] PHP Warning:  include(): Failed opening '../connect' for inclusion (include_path='.:/opt/php55/lib/php') in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(../../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(../../connect): failed to open stream: No such file or directory in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 06:58:15 America/Chicago] PHP Warning:  include(): Failed opening '../../connect' for inclusion (include_path='.:/opt/php55/lib/php') in /home/sellyour/public_html/api/gcm_message/test1.php on line 2
+[19-Jul-2015 07:08:26 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:26 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:08:31 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:09:16 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:09:16 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:10:06 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8
+[19-Jul-2015 07:10:06 America/Chicago] PHP Notice:  A non well formed numeric value encountered in /home/sellyour/public_html/api/gcm_message/test1.php on line 8

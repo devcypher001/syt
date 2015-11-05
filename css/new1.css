@@ -1,0 +1,43 @@
+.search-cont{width:100%; background-color:rgba(254,254,254,0.5); border:1px solid #666;-webkit-border-radius: 2px;
+-moz-border-radius: 2px; position:relative;
+border-radius: 2px;-webkit-box-shadow: 1px 1px 18px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    1px 1px 18px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         1px 1px 18px 0px rgba(50, 50, 50, 0.75);} 
+
+.search-push{ margin-top:265px; z-index: 999;}
+.search-push-forcity{ margin-top:176px;}
+.hero-title{ font-size:26px !important;color#000;margin-bottom:12px;}
+.hero-title-city{color:#FE7776; font-size:30px !important;color#000;margin-bottom:0px;}
+.drk-bor{ border:2px solid #4753A3 !important;}
+.search-button{ background-color: #FFA525; padding:7px 45px 7px 45px; border:1px solid #F57C60; color:#fff;margin-top:24px; border-radius:2px;}
+.search-button:hover{color:#f8f8f8 !important; text-align: center; background-color: #FE9807;}
+
+.pd-20{padding: 2px 20px 0px 22px; }
+
+
+
+/* Standard Forms */
+form {
+  margin: 0 0 0; }
+
+/* Using forms within rows, we need to set some defaults */
+form .row .row {
+  margin: 0 -0.5rem; }
+  form .row .row .column,
+  form .row .row .columns {
+    padding: 0 0.5rem; }
+  form .row .row.collapse {
+    margin: 0; }
+    form .row .row.collapse .column,
+    form .row .row.collapse .columns {
+      padding: 0; }
+    form .row .row.collapse input {
+      -moz-border-radius-bottomright: 0;
+      -moz-border-radius-topright: 0;
+      -webkit-border-bottom-right-radius: 0;
+      -webkit-border-top-right-radius: 0; }
+form .row input.column,
+form .row input.columns,
+form .row textarea.column,
+form .row textarea.columns {
+  padding-left: 0.5rem; }
